@@ -16,3 +16,16 @@ Interactive Sales Performance Dashboard using Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
+## 📁 Project Files
+
+```text
+Excel-Sales-Dashboard
+│
+├── README.md
+├── Excel_Sales_Dashboard_Dataset.xlsx
+└── Dashboard.png
+```
+
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard.png)
